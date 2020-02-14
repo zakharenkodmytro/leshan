@@ -146,7 +146,7 @@ Contributors:
                         <configuration>
                             <toolchains>
                                 <jdk>
-                                    <version>1.7</version>
+                                    <id>JavaSE-1.7</id>
                                 </jdk>
                             </toolchains>
                         </configuration>
